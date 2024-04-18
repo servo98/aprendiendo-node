@@ -1,0 +1,11 @@
+{
+  "name": "aprendiendo-nodejs",
+  "version": "1.0.0",
+  "description": "Primer proyecto de nodejs con npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fernando",
+  "license": "MIT"
+}
